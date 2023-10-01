@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{11C28AB0-6507-416D-BC41-06BF0EB4F478}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Builder/BevarageBuilder.cs">
+    <Files>
+      <File FileName="Singleton/Program.cs" Line="11" Column="10" />
+      <File FileName="Singleton/Singleton.cs" Line="7" Column="95" />
+      <File FileName="Builder/ReportBuilder.cs" Line="6" Column="1" />
+      <File FileName="Builder/Report.cs" Line="1" Column="1" />
+      <File FileName="Builder/Program.cs" Line="21" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="Builder" expanded="True">
+              <Node name="BevarageBuilder.cs" selected="True" />
+            </Node>
+            <Node name="Singleton" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AbstractMethodFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

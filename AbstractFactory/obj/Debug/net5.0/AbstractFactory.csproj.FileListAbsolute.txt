@@ -1,0 +1,15 @@
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csprojAssemblyReference.cache
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/Users/Parupalli/Projects/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache

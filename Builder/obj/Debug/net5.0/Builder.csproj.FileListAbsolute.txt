@@ -1,0 +1,15 @@
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/Builder.dll
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/ref/Builder.dll
+/Users/Parupalli/Projects/DesignPatterns/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.dll
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/ref/Builder.dll
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/Parupalli/Projects/DesignPatterns/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache

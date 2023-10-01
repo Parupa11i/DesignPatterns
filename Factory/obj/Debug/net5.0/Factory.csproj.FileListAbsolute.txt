@@ -1,0 +1,15 @@
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/Factory.deps.json
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/Factory.runtimeconfig.json
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/Factory.runtimeconfig.dev.json
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/Factory.dll
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/ref/Factory.dll
+/Users/Parupalli/Projects/DesignPatterns/Factory/bin/Debug/net5.0/Factory.pdb
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.csprojAssemblyReference.cache
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.AssemblyInfoInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.AssemblyInfo.cs
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.csproj.CoreCompileInputs.cache
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.dll
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/ref/Factory.dll
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.pdb
+/Users/Parupalli/Projects/DesignPatterns/Factory/obj/Debug/net5.0/Factory.genruntimeconfig.cache
